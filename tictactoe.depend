@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1629481487 source:/home/bagriel/C_Programming/tictactoe/menu.cpp
+	<iostream>
+	<locale.h>
+	<string>
+	<time.h>
+	"player.h"
+
+1629463181 source:/home/bagriel/C_Programming/tictactoe/clear.cpp
+	<iostream>
+	<unistd.h>
+	<stdlib.h>
+	<windows.h>
+
+1629478052 source:/home/bagriel/C_Programming/tictactoe/main.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+
+1629479875 source:/home/bagriel/C_Programming/tictactoe/game.cpp
+	<iostream>
+	<string>
+	<new>
+	"player.h"
+
+1629491328 /home/bagriel/C_Programming/tictactoe/player.h
+	<iostream>
+	<string>
+
+1629480650 source:/home/bagriel/C_Programming/tictactoe/about.cpp
+	<iostream>
+	<locale.h>
+
